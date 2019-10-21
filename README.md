@@ -1,7 +1,7 @@
 # Stepik---auto-tests-course
 Homework for Selenium Python auto tests course
-In this file I'll save my homework from Stepik auto test Selenium Python course
-https://stepik.org/lesson/187065/step/7?unit=161976
-Add something more
-I wish to become a tester of Selenium Python
+In this repository I've saved me homework task from Stepik auto test Selenium Python course
+Lesson 2.4
+https://stepik.org/lesson/181384/step/8?unit=156009
+
 
